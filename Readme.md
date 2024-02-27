@@ -11,3 +11,6 @@ Hola, mi nombre es **Juan de Dios Benitez Nava**, con numero de control : **2120
 |Tarea 1.3|6 de marzo	|15|
 |Examen|11 de marzo	|45|
 |Participación y Asistencia|	|10|
+
+#### Tarea 1.1. Historia y evolución de La Teoría de Autómatas y Lenguajes Formales 
+> -   Realizar un cuadro comparativo que describa los aportes de los principales investigadores que sustentaron la Teoría de Autómatas.
