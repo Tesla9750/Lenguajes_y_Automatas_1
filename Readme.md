@@ -1,6 +1,6 @@
 # Bienvenido a mi repositorio de github!
 
-Hola, mi nombre es **Juan de Dios Benitez Nava**, con numero de control : **21200582**. En este repositorio encontraras los archivos correspondientes a *Lenguajes y Autómatas I*
+Hola, mi nombre es **Juan de Dios Benitez Nava**, con numero de control : **21200582**. En este repositorio encontraras los archivos correspondientes a *Lenguajes y Autómatas I*, así mismo como los trabajos o tareas realizado durante clase.
 
 ## Tema 1. Introducción a la Teoría de Lenguajes Formales.
 > ## Actividades
