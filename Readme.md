@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Bienvenido a mi repositorio de github!
 
 Hola, mi nombre es **Juan de Dios Benitez Nava**, con numero de control : **21200582**. En este repositorio encontraras los archivos correspondientes a *Lenguajes y Autómatas I*, así mismo como los trabajos o tareas realizadas durante clase.
@@ -14,3 +13,5 @@ Hola, mi nombre es **Juan de Dios Benitez Nava**, con numero de control : **2120
 |Participación y Asistencia|	|10|
 
 #### Tarea 1.1. Historia y evolución de La Teoría de Autómatas y Lenguajes Formales 
+> -   Realizar un cuadro comparativo que describa los aportes de los principales investigadores que sustentaron la Teoría de Autómatas.
+
