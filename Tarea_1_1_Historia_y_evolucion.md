@@ -1,8 +1,10 @@
+
 # Tarea 1.1. Historia y evolución de La Teoría de Autómatas y Lenguajes Formales
+####  | 			 Benitez Nava Juan de Dios 			 |  21200582  | 29/02/2024  |
 
 > -   Realizar un cuadro comparativo que describa los aportes de los principales investigadores que sustentaron la Teoría de Autómatas.
 > 
-
+##
 | Investigador          | Aportes | Año de Contribución |
 | ---                   | ---     | ---                 |
 | **Claude Shannon**    | Contribuciones a la teoría de la información y codificación. | 1948 |
