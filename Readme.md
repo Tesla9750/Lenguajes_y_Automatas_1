@@ -19,3 +19,7 @@ Hola, mi nombre es **Juan de Dios Benitez Nava**, con numero de control : **2120
 #### Tarea 1.2. Fases de un compilador
 > - Realizar un mapa conceptual de las fases de un compilador.
 > - Enlace Directo: [Tarea 1.2. Fases de un compilador](https://github.com/Tesla9750/Lenguajes_y_Automatas_1/blob/dcb28cc4e77e45b3af18663ce58122ae672e11ee/Tarea_1_2_Fases_de_un_compilador.pdf)
+
+#### Tarea 1.3. Historia Compiladores
+> - Realizar un cuadro comparativo que describa los aportes de los principales investigadores que sustentaron la Teoría de Autómatas.
+> - Enlace Directo: [Tarea 1.2. Fases de un compilador](https://github.com/Tesla9750/Lenguajes_y_Automatas_1/blob/8fd56122636f428638c65357057e740532df6e1a/Tema%201/Tarea%201_3%20%20Historia%20Compiladores.pdf)
