@@ -22,4 +22,4 @@ Hola, mi nombre es **Juan de Dios Benitez Nava**, con numero de control : **2120
 
 #### Tarea 1.3. Historia Compiladores
 > - Realizar un cuadro comparativo que describa los aportes de los principales investigadores que sustentaron la Teoría de Autómatas.
-> - Enlace Directo: [Tarea 1.2. Fases de un compilador](https://github.com/Tesla9750/Lenguajes_y_Automatas_1/blob/8fd56122636f428638c65357057e740532df6e1a/Tema%201/Tarea%201_3%20%20Historia%20Compiladores.pdf)
+> - Enlace Directo: [Tarea 1.3. Historia Compiladores](https://github.com/Tesla9750/Lenguajes_y_Automatas_1/blob/8fd56122636f428638c65357057e740532df6e1a/Tema%201/Tarea%201_3%20%20Historia%20Compiladores.pdf)
