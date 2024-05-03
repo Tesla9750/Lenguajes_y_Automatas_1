@@ -23,3 +23,42 @@ Hola, mi nombre es **Juan de Dios Benitez Nava**, con numero de control : **2120
 #### Tarea 1.3. Historia Compiladores
 > - Realizar un cuadro comparativo que describa los aportes de los principales investigadores que sustentaron la Teoría de Autómatas.
 > - Enlace Directo: [Tarea 1.3. Historia Compiladores](https://github.com/Tesla9750/Lenguajes_y_Automatas_1/blob/8fd56122636f428638c65357057e740532df6e1a/Tema%201/Tarea%201_3%20%20Historia%20Compiladores.pdf)
+## Tema 2. Expresiones Regulares.
+> ## Actividades
+| Actividad                                                             | Fecha       | %  |
+| --------------------------------------------------------------------- | ----------- | -- |
+| Tarea 2.1 | 19 de marzo | 15 |
+| Tarea 2.2| 16 de abril | 30 |
+| Examen | 16 de abril | 45 |
+| Participación y Asistencia |  | 10 |
+
+#### Tarea 2.1. Expresiones Regulares  
+> - Investigar que es una Expresión Regular, cuál es su importancia y casos de uso.
+> - Enlace Directo: [Tarea 2.1. Expresiones Regulares](https://github.com/Tesla9750/Lenguajes_y_Automatas_1/blob/149a22bc7480268e89bd6cdc1711c40baaa8e425/Tema%202/Tarea_2_1_Expresiones_Regulares.md)
+
+
+#### Tarea 2.2.  Expresiones regulares con telegram
+> - Después de haber realizado sus practicas con el ejemplo de expresiones regulares y como crear un bot en telegram, crear un hibrido de las dos practicas y modificar su bot de telegram e implementar alguna de las preguntas u opciones que tienen en el ejemplo de expresiones regulares (De preferencia crear una nueva expresión regular propuesta por ustedes).  Deben publicar su código en GitHub y documentar en el Readme con pantallas del resultado del bot.
+> - Enlace Directo: [Tarea 2.2 Expresiones regulares con telegram](https://github.com/Tesla9750/Lenguajes_y_Automatas_1/tree/149a22bc7480268e89bd6cdc1711c40baaa8e425/Tema%202/Tarea%202_2%20Expresiones%20Regulares%20Con%20Telegram)
+
+#### Tarea 2.3.  Ejercicios de Practica
+> - .
+> - Enlace Directo: [Tarea 2.3.  Ejercicios de Practica](https://github.com/Tesla9750/Lenguajes_y_Automatas_1/blob/149a22bc7480268e89bd6cdc1711c40baaa8e425/Tema%202/Tarea_2_3_Ejercicos_expresiones_regulares.md)
+
+## Tema 3. Autómatas Finitos.
+> ## Actividades
+
+| Actividad | Fecha       | % |
+| --------- | ----------- | - |
+| Tarea 3.1| 23 de Abril |   |
+| Examen    | 29 de Abril |   |
+
+#### Tarea 3.1. Automatas Finitos
+> - Realizar los ejercicios acordados en clase de la página 49, del libro Teoría de la computación de Carrión Viramontes.
+> - Enlace Directo: [Tarea 3.1. Automatas Finitos](https://github.com/Tesla9750/Lenguajes_y_Automatas_1/blob/149a22bc7480268e89bd6cdc1711c40baaa8e425/Tema%203/Tarea_3_2_Automatas_finitos.md)
+
+#### Tarea 3.2 Caso practico Autómata Finito
+> - Realizar los ejercicios acordados en clase de la página 49, del libro Teoría de la computación de Carrión Viramontes.
+> - Enlace Directo: [Tarea 3.2 Caso practico Autómata Finito ](https://github.com/Tesla9750/Lenguajes_y_Automatas_1/blob/149a22bc7480268e89bd6cdc1711c40baaa8e425/Tema%203/Tarea_3_2_Caso_practico_Automata_Finito.md)
+
+
