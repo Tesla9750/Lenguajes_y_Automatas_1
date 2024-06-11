@@ -49,9 +49,8 @@ Alan Turing es una figura monumental en la historia de la computación y la inte
 # Opinión sobre "El Código Enigma"
 
 La película "El Código Enigma" no solo nos sumerge en el drama de la Segunda Guerra Mundial, sino que también nos presenta una figura clave en la historia de la computación: Alan Turing. Interpretado por Benedict Cumberbatch, Turing se muestra como un genio matemático con una mente brillante y un carácter complicado.
-
-¿Qué hace que la máquina de Turing sea tan importante? En la película vemos cómo Turing y su equipo en Bletchley Park se enfrentan al desafío monumental de descifrar "Enigma", la máquina de cifrado utilizada por los nazis. La clave de su éxito radica en la creación de una máquina que pudiera analizar y decodificar los mensajes cifrados a una velocidad y precisión inalcanzables por los humanos. Esta máquina, que Turing bautizó como "Christopher", es esencialmente uno de los primeros computadores electromecánicos de la historia.
+ 
+En la película vemos cómo Turing y su equipo en Bletchley Park se enfrentan al desafío monumental de descifrar "Enigma", la máquina de cifrado utilizada por los nazis. La clave de su éxito radica en la creación de una máquina que pudiera analizar y decodificar los mensajes cifrados a una velocidad y precisión inalcanzables por los humanos. Esta máquina, que Turing bautizó como "Christopher", es esencialmente uno de los primeros computadores electromecánicos de la historia.
 
 Es fascinante ver cómo los principios de la máquina de Turing se aplican en la computación moderna incluso más de medio siglo después. La capacidad de su máquina para realizar cálculos complejos y procesar datos rápidamente sentó las bases para la computadora digital. Su trabajo no solo ayudó a acortar la guerra, salvando innumerables vidas, sino que también preparó el camino para el desarrollo de la informática y las ciencias de la computación tal como las conocemos hoy.
 
-La película también nos obliga a reflexionar sobre la figura de Turing más allá de su genialidad técnica. ¿Cómo es posible que un hombre que salvó a millones de personas y cambió el curso de la historia haya sido tratado con tanta injusticia por su país? Tras la guerra, Turing fue procesado por su homosexualidad, algo que nos recuerda lo cruel e injusta que puede ser la sociedad.
